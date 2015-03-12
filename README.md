@@ -1,7 +1,7 @@
-ACM SIGCOMM 2012 Web Site
+ACM DEV 2015 Web Site
 =========================
 
-PHP/HTML/CSS/JS code for the ACM SIGCOMM 2012 website.
+PHP/HTML/CSS/JS code for the ACM DEV 2015. The code is forked from the ACM SIGCOMM 2012 website.
 
 You are welcome to reuse and adapt this code for your conference. It is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Please see http://creativecommons.org/licenses/by-nc-sa/3.0/. Source code is available at https://github.com/ryanrhymes/SIGCOMM2012.
 
