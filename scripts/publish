@@ -77,10 +77,10 @@ echo >> $cm
 chmod -R ug+rwX,o+rX $out
 
 # upload to the ACM's server
-rsync -azvv --rsh=ssh --delete --exclude=paper --exclude=sigcomm-2012-proceedings.zip $out/ lars@turing.acm.org:~/2012/
+###rsync -azvv --rsh=ssh --delete --exclude=paper --exclude=sigcomm-2012-proceedings.zip $out/ lars@turing.acm.org:~/2012/
 
 # fix permissions remotely
-ssh lars@turing.acm.org "chown -R lars:sigcomm 2012/ ; chmod -R ug+rwX,a+rX 2012"
+###ssh lars@turing.acm.org "chown -R lars:sigcomm 2012/ ; chmod -R ug+rwX,a+rX 2012"
 
 # remove temporary directory
-rm -rf $out
+###rm -rf $out
