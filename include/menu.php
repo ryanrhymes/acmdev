@@ -9,8 +9,8 @@ $mypage = current_pagename();
 
 		<ul class="navlist" data-role="listview" data-inset="true" data-theme="d" data-divider-theme="b">
 			<li data-icon="false" <?php if ($mypage=="index.php") echo 'class="navselected"' ?> ><a href="index.php">Home</a></li>
-			<li data-icon="false" <?php if ($mypage=="supporters.php") echo 'class="navselected"' ?> ><a href="supporters.php">Supporters</a></li>
-			<li data-icon="false" <?php if ($mypage=="program.php") echo 'class="navselected"' ?> ><a href="program.php">Program</a></li>
+			<li data-icon="false" <?php if ($mypage=="cfp.php") echo 'class="navselected"' ?> ><a href="cfp.php">Call for Papers</a></li>
+			<!-- <li data-icon="false" <?php if ($mypage=="program.php") echo 'class="navselected"' ?> ><a href="program.php">Program</a></li> -->
 
 			<!-- <li class="navheader-b" data-icon="plus" data-theme="c" ><a href="#">Tutorials</a></li> -->
 			<!-- <li data-icon="false" class="subnav-b <?php if ($mypage=="pwn.php") echo 'navselected' ?>" data-theme="c"><a href="pwn.php">PWN</a></li> -->
@@ -18,12 +18,12 @@ $mypage = current_pagename();
 			<li data-icon="false" <?php if ($mypage=="pclist.php") echo 'class="navselected"' ?> ><a href="pclist.php">Program Committee</a></li>
 			<li data-icon="false" <?php if ($mypage=="organization.php") echo 'class="navselected"' ?> ><a href="organization.php">Organization Committee</a></li>
 
+			<li data-icon="false" <?php if ($mypage=="supporters.php") echo 'class="navselected"' ?> ><a href="supporters.php">Supporters</a></li>
 			</ul>
 
 		<div class="hostlogo border ui-corner-all ui-shadow">
-			<div><a href="http://www.aalto.fi/en/"><img src="images/aalto.png" alt="Aalto University" /></a></div>
-			<div><a href="http://www.nokia.com"><img src="images/nokia.png" alt="Nokia" /></a></div>
-		    <p class="ui-btn-text">ACM DEV 2015 host</p>
+			<div><a href="http://www.qmul.ac.uk/"><img src="images/QM_logo.gif" alt="Queen Mary University of London" /></a></div>
+		    <p class="ui-btn-text">ACM DEV 2015 Host</p>
 		</div>
 
 		<div class="border ui-corner-all ui-shadow socialbuttons">

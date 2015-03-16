@@ -5,46 +5,71 @@
 
 <h2 class="hcls">Call for Papers</h2>
 
-<p>The SIGCOMM 2012 conference seeks papers describing significant research contributions to the field of computer and data communication networks. We invite submissions on a wide range of networking research, including, but not limited to:
-</p>
+<p>DEV 2015 provides an international forum for research in the design, implementation, and evaluation of information and communication technologies (ICTs) for social and economic development. In particular, we focus on contexts where conventional computing solutions are often inappropriate due to various contextual factors - including, but not limited to: cost, language, literacy, and the availability of power and bandwidth.</p>
+
+<p>The topic of ICT for development is inherently multidisciplinary, and encompasses a broad array of fields within the computer science discipline.  The ACM DEV conference is an opportunity for researchers across these diverse fields of computer science to come together to work on the common problem of improving access to and availability of information and communication technology solutions.  In an effort to encourage participation of researchers across the relevant domains, this year the DEV conference introduces submissions “tracks”.  The focus of the conference is research at the interface of computer science and development related to (but not limited to) the following three non-exclusive focus areas:</p>
 
 <ul>
-<li>Design, implementation, and analysis of network architectures and algorithms 
-<li>Economic aspects of the Internet
-<li>Enterprise, datacenter, and storage area networks
-<li>Experimental results from operational networks or network applications
-<li>Fault-tolerance, reliability, and troubleshooting
-<li>Insights into network and traffic characteristics
-<li>Network management and traffic engineering
-<li>Network security, vulnerability, and defenses
-<li>Network, transport, and application-layer protocols
-<li>Networking issues for emerging applications
-<li>Operating system and host support for networking
-<li>Peer-to-peer, overlay, and content distribution networks
-<li>Resource management, quality of service, and signaling
-<li>Routing, switching, and addressing
-<li>Technical aspects of online social networks
-<li>Techniques for network measurement and simulation
-<li>Wireless, mobile, ad-hoc, and sensor networks
-
+<li>Systems</li>
+<li>HCI and Applications</li>
+<li>Data Science</li>
 </ul>
+
+<p>We are committed to accepting papers of the very highest quality on the interface between computer science and development. Authors can designate a paper for one or two of these focus areas. Each area has dedicated Program Committee (PC) members to allow appropriate review of papers. Papers will be automatically referred to another track or reviewed by PC members from different tracks where appropriate. The conference itself will have sessions grouped by topic rather than by area. Example topics within focus areas include:</p>
+
+<h3>System Track</h2>
+<ul>
+<li>Low-cost connectivity and computing devices</li>
+<li>Network solutions for poorly connected regions, including white space spectrum</li> 
+<li>Power-efficient systems</li> 
+<li>Mobile systems and applications</li> 
+<li>Special-purpose systems, e.g., sensors, wireless, IVR</li> 
+<li>Systems challenges and opportunities in development, e.g., security, sustainability, resilience</li> 
+<li>Cellular phone systems and applications</li> 
+<li>Novel tools and applications for development</li>
+<li>Measurements of existing technology in developing regions (e.g. network deployments)</li>
+</ul>
+
+<h3>HCI Track</h2>
+<ul>
+<li>User interfaces for low-literacy populations</li>
+<li>Multi-lingual computing</li>
+<li>User interfaces for low-cost devices</li>
+<li>Participatory methods and user-centered design</li>
+<li>Accessibility to disabled populations in developing regions</li>
+<li>Design and evaluation of applications in health, microfinance, education, agriculture, entertainment, social media</li>
+<li>Adapting content and applications to local languages and education levels</li>
+<li>Understanding social relationships and information flows in disadvantaged societies</li>
+</ul>
+
+<h3>Data Science Track</h2>
+<ul>
+<li>Computational sustainability</li>
+<li>Computational social science</li>
+<li>Econometric models and developmental economics</li>
+<li>Data science for social good</li>
+<li>Machine learning techniques for large-scale data analysis in development contexts</li>
+<li>Speech interfaces and translation for low-resource languages</li>
+<li>Computer vision challenges and opportunities in development</li>
+<li>Understanding social networks and digital media in developing regions</li>
+</ul>
+
+<h3>General Track</h2>
+<p>We welcome papers outside of the above topics that address the DEV focus on computing innovations supporting social and economic development.</p>  
+
+<p>Papers should describe original and previously unpublished research. Three metrics will be applied to judge the submissions: (a) Relevance of the problem for development; (b) Novelty of the ideas; (c) Evaluation of the solution, making a case for development-focused impact. All DEV paper submissions should either provide or directly motivate a novel technical solution that has direct implications for development.</p>
+ 
+<p>Full papers must not exceed 9 pages and all submissions must be in ACM format, submitted as a PDF. Submissions should be fully anonymized. In particular, the names or affiliations of authors should not be included so as to allow for blind review.  Papers should be submitted via the submission site. As part of the submission process, please indicate one or more tracks for which your submission is best suited.</p>
+
 
 <h2 class="hcls">Submissions</h2>
 
-<p>
-SIGCOMM is a highly selective conference where full papers typically report novel results firmly substantiated by experimentation, simulation, or analysis. Submissions can be up to 14 pages in length, in two-column 10pt format. . The submission instructions will be posted here in some time. Note that accepted camera-ready papers will be 12 pages in length, in two-column format with 9pt font.
-</p>
-<p>
-This year, authors will have the option of submitting a short rebuttal of the reviews of their paper after the first round of reviewing has concluded. The goal of the rebuttal process is to allow authors the opportunity to correct misperceptions, if any, regarding their paper. Note that submitting a rebuttal is entirely optional.
-</p>
+<p>This year ACM DEV introduces a “short paper” submissions track to target practical field and/or deployment experience, as well as updates or follow-ups to previously published work.  Short papers should be 2 pages in length, and should convey work or conclusions that are a direct result of field experience.  Papers accepted into the short paper track will be presented in the conference, but will not appear in the conference proceedings.  It is hoped that these papers will foster sharing of best practices and/or lessons learned as well as serve as interesting points for discussion during the conference.  We particularly encourage submissions from practitioners, NGOs, and others with field experience.  Note that these short papers are not posters, but are presentations.</p>
 
-<p>In addition to the main conference, SIGCOMM 2012 will have a series of co-located workshops, a poster and demo session, a travel grant program, and conference best paper and SIGCOMM awards.
-</p>
-
-<p>Download this call as <a href="cfp.pdf" rel="external">a PDF</a>.</p>
+<p>Download this call as a <a href="cfp.pdf" rel="external">PDF</a>.</p>
 
 <h2 class="hcls">Important Dates</h2>
-<p>All times noted are per Pacific Standard Time (PST) until 10 Mar 2012 and per Pacific Daylight Time (PDT) from 11 Mar 2012 onwards. Please be sure to translate to your local time accordingly.
+<p>All times noted are per Pacific Standard Time (PST). Please be sure to translate to your local time accordingly.
 </p>
 <?php
         include("include/dates.html");

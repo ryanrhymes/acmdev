@@ -19,7 +19,6 @@
 	<div class="center" style="vertical-align:middle;">
 			<div class="fb-like" data-href="http://conferences.sigcomm.org/sigcomm/2012/" data-send="false" data-layout="button_count" data-width="100" data-show-faces="true"></div>
 			<a href="https://twitter.com/share" class="twitter-share-button" data-related="sigcomm12" data-hashtags="sigcomm12">Tweet</a>
-			<div class="g-plusone" data-size="medium"></div>
 	</div>	
 
 <div id="fb-root"></div>

@@ -6,10 +6,15 @@
 <h2 class="hcls">Welcome to London</h2>
 
 <p>
-The organizing committee is delighted to invite you to ACM SIGCOMM 2012, to be held  in Helsinki, Finland between August 13 and August 17, 2012!
+The organizing committee is delighted to invite you to ACM DEV 2015, to be held in London, UK between December ??? and December ???, 2015!
 </p>
+
 <p>
-SIGCOMM is the flagship annual conference of the ACM Special Interest Group on Data Communication (SIGCOMM) on the applications, technologies, architectures, and protocols for computer communication.
+The sixth annual Symposium on Computing for Development (DEV 2014) will provide a premier venue to present original and innovative work on the applications, technologies, architectures, and protocols for computing in developing regions.
+</p>
+
+<p>
+The proceedings of the conference will be available from the ACM Digital Library. For more details, visit the <a href="cfp.php">Call for Papers</a>.
 </p>
 
 <!--<a href="sigcomm-support.pdf" rel="external" data-role="button" class="button">Supporter Information</a>-->
@@ -29,10 +34,6 @@ $(".newslibtn").siblings().slice(7).hide();
 <?php
     include ("include/dates.html");
 ?>
-
-<h2 class="hcls">Sponsors</h2>
-	<a href="http://www.acm.org/"><img src="images/acm.png" alt="Association for Computing Machinery" style="width:41%;padding:4%;vertical-align:middle" /></a>
-	<a href="http://www.sigcomm.org/"><img src="images/sig.png" alt="ACM SIGCOMM" style="width:41%;padding:4%;vertical-align:middle" /></a>
 
 <?php
     include ("include/footer.php");

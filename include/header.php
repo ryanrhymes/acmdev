@@ -15,7 +15,8 @@
 
 <!DOCTYPE HTML>
 
-<html manifest="sigcomm.appcache">
+<!--<html manifest="sigcomm.appcache">-->
+<html>
 <head>
 	<meta charset="iso-8859-1">
 	<meta name="viewport" content="width=device-width, initial-scale=1" />

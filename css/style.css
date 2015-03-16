@@ -118,6 +118,10 @@ ul li {
 	background-image:         linear-gradient( #ffffff /*{c-bup-background-start}*/, #d5d5d5 /*{c-bup-background-end}*/);
 }
 
+.content p {
+    text-align: justify;
+}
+
 .prog-info-p {
 	//position:absolute;
 	font-size:11px;
@@ -150,8 +154,9 @@ ul li {
 }
 
 .hostlogo div {
+        margin: auto;
 	padding: 4% 2% 0 2%;
-	width: 43%;
+	width: 95%;
  	text-align: center;
 	display: inline-block;
 	vertical-align: middle;
