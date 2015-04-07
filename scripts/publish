@@ -9,6 +9,12 @@
 out=$(mktemp -d /tmp/XXXXXXXXXX)
 echo Creating minified site in $out...
 
+# some local commands
+htmlcompressor="java -jar /Users/liang/Applications/tool/htmlcompressor-1.5.3.jar"
+yuicompressor="java -jar /Users/liang/Applications/tool/yuicompressor-2.4.8.jar"
+closure="/Users/liang/Applications/tool/google-closure-compiler.jar"
+closurecompiler="java -jar /Users/liang/Applications/tool/google-closure-compiler.jar"
+
 # for all local files, do...
 find . -print0 | while read -d $'\0' item
 do
@@ -31,22 +37,22 @@ do
   elif [[ $item == *.php || $item == *.htm || $item == *.html ]]; then
 	# compress PHP and HTML
 	echo htmlcompressor $item
-  	htmlcompressor --preserve-php --remove-intertag-spaces --remove-quotes --simple-doctype --remove-style-attr --remove-link-attr --remove-script-attr --remove-form-attr --remove-input-attr --simple-bool-attr --remove-js-protocol  --remove-http-protocol --remove-surrounding-spaces max --compress-js --compress-css --js-compressor closure -t html -o $out/$(dirname $item)/ $item || exit
+  	$htmlcompressor --preserve-php --remove-intertag-spaces --remove-quotes --simple-doctype --remove-style-attr --remove-link-attr --remove-script-attr --remove-form-attr --remove-input-attr --simple-bool-attr --remove-js-protocol  --remove-http-protocol --remove-surrounding-spaces max --compress-js --compress-css --js-compressor $closure -t html -o $out/$(dirname $item)/ $item || exit
 
   elif [[ $item == *.xml ]]; then
 	# compress XML
 	echo htmlcompressor $item
-  	htmlcompressor -t xml -o $out/$(dirname $item)/ $item || exit
+  	$htmlcompressor -t xml -o $out/$(dirname $item)/ $item || exit
 
   elif [[ $item == *.js ]]; then
 	# compress javascript
 	echo closure-compiler $item
-	closure-compiler --warning_level QUIET --js_output_file $out/$item $item || exit
+	$closurecompiler --warning_level QUIET --js_output_file $out/$item $item || exit
 
   elif [[ $item == *.css ]]; then
 	# compress CSS
 	echo yuicompressor $item
-	yuicompressor -o $out/$item $item || exit
+	$yuicompressor -o $out/$item $item || exit
 
   # we do NOT optimize images in this script, it would take too long
   # run your images through image_optim when you add them to the repository
@@ -77,7 +83,8 @@ echo >> $cm
 chmod -R ug+rwX,o+rX $out
 
 # upload to the ACM's server
-###rsync -azvv --rsh=ssh --delete --exclude=paper --exclude=sigcomm-2012-proceedings.zip $out/ lars@turing.acm.org:~/2012/
+#rsync -azvv --rsh=ssh --delete --exclude=paper --exclude=sigcomm-2012-proceedings.zip $out/ lxwang@shell.hiit.fi:~/public_html/acmdev
+rsync -azvv --rsh=ssh --delete --exclude=paper --exclude=sigcomm-2012-proceedings.zip $out/ dev6@acmdev.org:/home/dev6/www
 
 # fix permissions remotely
 ###ssh lars@turing.acm.org "chown -R lars:sigcomm 2012/ ; chmod -R ug+rwX,a+rX 2012"
