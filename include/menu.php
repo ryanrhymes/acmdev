@@ -15,9 +15,8 @@ $mypage = current_pagename();
 			<!-- <li class="navheader-b" data-icon="plus" data-theme="c" ><a href="#">Tutorials</a></li> -->
 			<!-- <li data-icon="false" class="subnav-b <?php if ($mypage=="pwn.php") echo 'navselected' ?>" data-theme="c"><a href="pwn.php">PWN</a></li> -->
 
-			<li data-icon="false" <?php if ($mypage=="pclist.php") echo 'class="navselected"' ?> ><a href="pclist.php">Program Committee</a></li>
 			<li data-icon="false" <?php if ($mypage=="organization.php") echo 'class="navselected"' ?> ><a href="organization.php">Organization Committee</a></li>
-
+			<li data-icon="false" <?php if ($mypage=="localinfo.php") echo 'class="navselected"' ?> ><a href="localinfo.php">Local Info</a></li>
 			<li data-icon="false" <?php if ($mypage=="supporters.php") echo 'class="navselected"' ?> ><a href="supporters.php">Supporters</a></li>
 			</ul>
 

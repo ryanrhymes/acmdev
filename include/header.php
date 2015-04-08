@@ -23,7 +23,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta name="apple-mobile-web-app-capable" content="yes" />
 	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
-	<meta name="copyright" content="The ACM SIGCOMM 2012 Website by ACM SIGCOMM 2012 is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License." />
+	<meta name="copyright" content="The ACM DEV 2015 Website by ACM DEV 2015 is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License." />
 
 	<title>
 <?php
@@ -38,7 +38,7 @@
         echo("$filename - ");
     }
 ?>
-	ACM SIGCOMM 2012
+	ACM DEV 2015
     </title>
 
 	<link rel="apple-touch-icon-precomposed" href="images/icon.png" />
@@ -77,7 +77,7 @@
 <div data-role="page" id="jqm-home" class="type-home">
 
 	<div class="header" data-role="header" data-theme="c" data-position="inline">
-		<div><a href="index.php"><img src="images/helsinki-logo-vert.png" style="height:40px" alt="ACM SIGCOMM 2012, August 13-17, 2012, Helsinki, Finland"></a></div>
+		<div><a href="index.php"><img src="images/helsinki-logo-vert.png" style="height:40px" alt="ACM DEV 2015, August 13-17, 2015, Helsinki, Finland"></a></div>
 		<a href="#" onclick="$.mobile.silentScroll($.mobile.activePage.find('.navselected').position().top)" class="ui-btn-right" data-icon="grid">Site Menu</a>
 	</div>
 

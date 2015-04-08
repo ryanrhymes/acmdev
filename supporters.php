@@ -22,11 +22,13 @@ ACM DEV 2015 thanks the following supporters for their generous support!
 
 <div>
 <h2 class="hcls">Silver</h2>
+<a href="http://www.internetsociety.org/"><img src="images/isoc.jpg" alt="" style="width: 400px;" /></a>
 </div>
 
 
 <div>
 <h2 class="hcls">Bronze</h2>
+<a href="http://www.interdigital.com/"><img src="images/interdigital.jpg" alt="" style="width: 400px;" /></a>
 </div>
 
 </div>
