@@ -77,7 +77,7 @@
 <div data-role="page" id="jqm-home" class="type-home">
 
 	<div class="header" data-role="header" data-theme="c" data-position="inline">
-		<div><a href="index.php"><img src="images/helsinki-logo-vert.png" style="height:40px" alt="ACM DEV 2015, August 13-17, 2015, Helsinki, Finland"></a></div>
+		<div><a href="index.php"><img src="images/london-logo.png" style="height:40px" alt="ACM DEV 2015"></a></div>
 		<a href="#" onclick="$.mobile.silentScroll($.mobile.activePage.find('.navselected').position().top)" class="ui-btn-right" data-icon="grid">Site Menu</a>
 	</div>
 

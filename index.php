@@ -6,11 +6,11 @@
 <h2 class="hcls">Welcome to London</h2>
 
 <p>
-The organizing committee is delighted to invite you to ACM DEV 2015, to be held in London, UK between November 30th and December 2nd, 2015!
+The organizing committee is delighted to invite you to ACM DEV 2015, to be held in London, UK between November 30 - December 2, 2015!
 </p>
 
 <p>
-The sixth annual Symposium on Computing for Development (DEV 2014) will provide a premier venue to present original and innovative work on the applications, technologies, architectures, and protocols for computing in developing regions.
+The sixth annual Symposium on Computing for Development (ACM DEV 2015) will provide a premier venue to present original and innovative work on the applications, technologies, architectures, and protocols for computing in developing regions.
 </p>
 
 <p>

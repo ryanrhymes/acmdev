@@ -15,13 +15,13 @@
 
 	<li data-role="list-divider">TPC Chairs</li>
 	<?php
-		add_listitem("Elizabeth Belding", "UCSB, USA", "");
-		add_listitem("Jay Chen", "NYU, USA", "");
+		add_listitem("Elizabeth Belding", "University of California, Santa Barbara, USA", "https://www.cs.ucsb.edu/~ebelding/Home.html");
+		add_listitem("Jay Chen", "New York University, USA", "");
 	?>
 	
 	<li data-role="list-divider">Local Arrangements Chairs</li>
 	<?php
-		add_listitem("Gareth Tyson", "QMUL, UK", "");
+		add_listitem("Gareth Tyson", "Queen Mary University of London, UK", "http://www.eecs.qmul.ac.uk/~tysong/");
 	?>
 	
 	<li data-role="list-divider">Web &amp; Publicity Chair</li>

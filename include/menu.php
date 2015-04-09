@@ -3,8 +3,8 @@ $mypage = current_pagename();
 ?>
 
 	<div id="left-column" class="content-secondary">
-		<a href="index.php"><img class="center conflogo" src="images/london-logo.png" alt="ACM SIGCOMM 2012, August 13-17, 2012, Helsinki, Finland" /></a>
-
+		<div style="width:100%; text-align: center;"><h1>ACM DEV 2015</h1></div>
+		<a href="index.php"><img class="center conflogo" src="images/london-logo.png" alt="ACM DEV 2015" /></a>
 		<a href="#" onclick="$.mobile.silentScroll(0)" class="ui-btn-right" data-icon="grid"><h2 class="hcls">Site Menu</h2></a>
 
 		<ul class="navlist" data-role="listview" data-inset="true" data-theme="d" data-divider-theme="b">
