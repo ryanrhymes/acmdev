@@ -27,7 +27,7 @@ ACM DEV 2015 will be held in the Octagon building in Mile End Campus of QMUL. Yo
 <h2 class="hcls">Hotels</h2>
 
 <p>
-There are plenty of options for accommodation in easy walking distance from the venue.
+There are plenty of options for accommodation near the venue.
 
 <ul>
 	<li>ibis Stratford: budget hotel, close to the Olympic park and Westfield Stratford city, <a href="http://www.ibis.com/gb/hotel-3099-ibis-london-stratford/index.shtml">[link]</a></li>

@@ -6,7 +6,7 @@
 <h2 class="hcls">Welcome to London</h2>
 
 <p>
-The organizing committee is delighted to invite you to ACM DEV 2015, to be held in London, UK between November 30 - December 2, 2015!
+The organizing committee is delighted to invite you to ACM DEV 2015, to be held in London, UK between November 30 - December 2, 2015.
 </p>
 
 <p>

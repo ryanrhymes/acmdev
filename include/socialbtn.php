@@ -17,16 +17,16 @@
 
 <body>
 	<div class="center" style="vertical-align:middle;">
-			<div class="fb-like" data-href="http://conferences.sigcomm.org/sigcomm/2012/" data-send="false" data-layout="button_count" data-width="100" data-show-faces="true"></div>
-			<a href="https://twitter.com/share" class="twitter-share-button" data-related="sigcomm12" data-hashtags="sigcomm12">Tweet</a>
+			<div class="fb-like" data-href="https://www.facebook.com/acmdev2015" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+			<a href="https://twitter.com/share" class="twitter-share-button" data-related="acmdev2015" data-hashtags="acmdev2015">Tweet</a>
 	</div>	
 
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id; js.async = true;
-  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=266391803547350";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
