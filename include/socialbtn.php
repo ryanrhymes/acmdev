@@ -18,7 +18,8 @@
 <body>
 	<div class="center" style="vertical-align:middle;">
 			<div class="fb-like" data-href="https://www.facebook.com/acmdev2015" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
-			<a href="https://twitter.com/share" class="twitter-share-button" data-related="acmdev2015" data-hashtags="acmdev2015">Tweet</a>
+			<a href="https://twitter.com/intent/tweet?button_hashtag=acmdev2015" class="twitter-hashtag-button" data-related="ryan_liang">Tweet #acmdev2015</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 	</div>	
 
 <div id="fb-root"></div>

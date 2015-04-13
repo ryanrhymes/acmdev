@@ -18,7 +18,7 @@ The proceedings of the conference will be available from the ACM Digital Library
 </p>
 
 <!--<a href="sigcomm-support.pdf" rel="external" data-role="button" class="button">Supporter Information</a>-->
-<a href="mailto:sigcomm2012-gen-chairs@acm.org" data-role="button" class="button">Contact the Organizers</a>
+<a href="mailto:arjuna.sathiaseelan@cl.cam.ac.uk" data-role="button" class="button">Contact the Organizers</a>
 
 <h2 class="hcls">News</h2>
 <ul data-role="listview" data-inset="true" data-theme="d" class="datetbl">
