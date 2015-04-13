@@ -19,7 +19,7 @@
 
 
 <div class="license">
-The <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">ACM SIGCOMM 2012 Website</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://conferences.sigcomm.org/sigcomm/2012/" property="cc:attributionName" rel="cc:attributionURL">ACM SIGCOMM 2012</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>. Source code is available at <a href="https://github.com/ryanrhymes/SIGCOMM2012">github.com</a>.
+The <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">ACM DEV 2015 Website</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://conferences.sigcomm.org/sigcomm/2012/" property="cc:attributionName" rel="cc:attributionURL">ACM SIGCOMM 2012</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>. Source code is available at <a href="https://github.com/ryanrhymes/SIGCOMM2012">github.com</a>.
 </div>
 
 </div><!-- /page -->
