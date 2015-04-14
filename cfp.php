@@ -17,7 +17,7 @@
 
 <p>We are committed to accepting papers of the very highest quality on the interface between computer science and development. Authors can designate a paper for one or two of these focus areas. Each area has dedicated Program Committee (PC) members to allow appropriate review of papers. Papers will be automatically referred to another track or reviewed by PC members from different tracks where appropriate. The conference itself will have sessions grouped by topic rather than by area. Example topics within focus areas include:</p>
 
-<h3>System Track</h2>
+<h3>Systems Track</h2>
 <ul>
 <li>Low-cost connectivity and computing devices</li>
 <li>Network solutions for poorly connected regions, including white space spectrum</li> 
@@ -62,9 +62,9 @@
 <p>Full papers must not exceed 9 pages and all submissions must be in ACM format, submitted as a PDF. Submissions should be fully anonymized. In particular, the names or affiliations of authors should not be included so as to allow for blind review.  Papers should be submitted via the submission site. As part of the submission process, please indicate one or more tracks for which your submission is best suited.</p>
 
 
-<h2 class="hcls">Submissions</h2>
+<h2 class="hcls">Short Papers on Practical Experiences</h2>
 
-<p>This year ACM DEV introduces a “short paper” submissions track to target practical field and/or deployment experience, as well as updates or follow-ups to previously published work.  Short papers should be 2 pages in length, and should convey work or conclusions that are a direct result of field experience.  Papers accepted into the short paper track will be presented in the conference, but will not appear in the conference proceedings.  It is hoped that these papers will foster sharing of best practices and/or lessons learned as well as serve as interesting points for discussion during the conference.  We particularly encourage submissions from practitioners, NGOs, and others with field experience.  Note that these short papers are not posters, but are presentations.</p>
+<p>This year ACM DEV introduces a "short paper" submissions track to target practical field and/or deployment experience, as well as updates or follow-ups to previously published work.  Short papers should be 2 pages in length, and should convey work or conclusions that are a direct result of field experience.  Papers accepted into the short paper track will be presented in the conference, but will not appear in the conference proceedings.  It is hoped that these papers will foster sharing of best practices and/or lessons learned as well as serve as interesting points for discussion during the conference.  We particularly encourage submissions from practitioners, NGOs, and others with field experience.  Note that these short papers are not posters, but are presentations.</p>
 
 <p>Download this call as a <a href="cfp.pdf" rel="external">PDF</a>.</p>
 

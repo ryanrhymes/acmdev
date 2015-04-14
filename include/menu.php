@@ -18,6 +18,7 @@ $mypage = current_pagename();
 			<li data-icon="false" <?php if ($mypage=="organization.php") echo 'class="navselected"' ?> ><a href="organization.php">Organization Committee</a></li>
 			<li data-icon="false" <?php if ($mypage=="localinfo.php") echo 'class="navselected"' ?> ><a href="localinfo.php">Local Info</a></li>
 			<li data-icon="false" <?php if ($mypage=="supporters.php") echo 'class="navselected"' ?> ><a href="supporters.php">Supporters</a></li>
+			<li data-icon="false" <?php if ($mypage=="dev5") echo 'class="navselected"' ?> ><a href="http://dev5.acmdev.org/">ACM DEV 2014</a></li>
 			</ul>
 
 		<div class="hostlogo border ui-corner-all ui-shadow">

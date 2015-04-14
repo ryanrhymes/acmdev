@@ -24,6 +24,12 @@
 		add_listitem("Gareth Tyson", "Queen Mary University of London, UK", "http://www.eecs.qmul.ac.uk/~tysong/");
 	?>
 	
+	<li data-role="list-divider">Poster Chair</li>
+	
+	<?php
+		add_listitem("Veljko Pejovic", "University of Ljubljana, Slovenia", "");
+	?>
+	
 	<li data-role="list-divider">Web &amp; Publicity Chair</li>
 	<?php
 		add_listitem("Liang Wang", "University of Cambridge, UK", "http://cs.helsinki.fi/liang.wang");
