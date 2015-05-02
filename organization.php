@@ -37,34 +37,34 @@
 	
 	<li data-role="list-divider">TPC Members</li>
 	<?php
-		add_listitem("Roni Rosenfeld", "Carnegie Mellon University, USA", "");
-		add_listitem("Susana Munoz Hernandez", "U. Politecnica de Madrid, Spain", "");
+		add_listitem("Aaditeshwar Seth", "IIT Delhi, India", "");
 		add_listitem("Agha Ali Raza", "Lahore University of Management Science, Pakistan", "");
-		add_listitem("Richard Anderson", "University of Washington, USA", "");
-		add_listitem("Kentaro Toyama", "UC Berkeley, USA", "");
-		add_listitem("Brian DeRenzi", "IBM Kenya", "");
-		add_listitem("Vanessa Frias-Martinez", "University of Maryland, USA", "");
-		add_listitem("Josh Blumenstock", "University of Washington, USA", "");
-		add_listitem("Ed Cutrell", "Microsoft Research India, India", "");
-		add_listitem("Tapan Parikh", "UC Berkeley, USA", "");
 		add_listitem("Andrew Dearden", "Sheffield Hallam University, UK", "");
+		add_listitem("Azza Abouzied", "NYU Abu Dhabi, UAE", "");
+		add_listitem("Bharat Raghavan", "ICSI, India", "");
+		add_listitem("Bhaskaran Raman", "IIT-Bombay, India", "");
+		add_listitem("Bill Tucker", "University of Western Cape, South Africa", "");
+		add_listitem("Brian DeRenzi", "IBM Kenya, Kenya", "");
+		add_listitem("David Johnson", "CSIR, South Africa", "");
+		add_listitem("Ed Cutrell", "Microsoft Research India, India", "");
+		add_listitem("Ellen Zegura", "Georgia Tech, USA", "");
+		add_listitem("Fred Xue", "Google, USA", "");
+		add_listitem("Jon Crowcroft", "University of Cambridge, UK", "");
+		add_listitem("Josh Blumenstock", "University of Washington, USA", "");
+		add_listitem("Kentaro Toyama", "UC Berkeley, USA", "");
+		add_listitem("Mahesh Marina", "University of Edinburgh, UK", "");
+		add_listitem("Mariya Zheleva", "University at Albany, SUNY", "");
 		add_listitem("Michael Best", "Georgia Tech, USA", "");
 		add_listitem("Nicola Dell", "University of Washington, USA", "");
-		add_listitem("Ellen Zegura", "Georgia Tech, USA", "");
-		add_listitem("Barath Rhagavan", "ICSI", "");
-		add_listitem("Bill Tucker", "University of Western Cape, South Africa", "");
-		add_listitem("Azza Abouzied", "NYU Abu Dhabi, UAE", "");
-		add_listitem("Aaditeshwar Seth", "IIT Delhi, India", "");
-		add_listitem("Bhaskaran Raman", "IIT-Bombay, India", "");
-		add_listitem("Sibren Isaacman", "Loyola University, USA", "");
-		add_listitem("David Johnson", "CSIR, South Africa", "");
-		add_listitem("Mariya Zheleva", "University at Albany, SUNY", "");
-		add_listitem("Mahesh Marina", "University of Edinburgh, UK", "");
-		add_listitem("Umar Saif", "Lahore University of Management Science, Pakistan", "");
-		add_listitem("Fred Xue", "Google, USA", "");
 		add_listitem("Nithya Sambasivan", "Google, USA", "");
-		add_listitem("Shankar Kalyanaram", "Facebook, USA", "");
-		add_listitem("Jon Crowcroft", "University of Cambridge, UK", "");
+		add_listitem("Richard Anderson", "University of Washington, USA", "");
+		add_listitem("Roni Rosenfeld", "Carnegie Mellon University, USA", "");
+		add_listitem("Shankar Kalyanaraman", "Facebook, USA", "");
+		add_listitem("Sibren Isaacman", "Loyola University, USA", "");
+		add_listitem("Susana Munoz Hernandez", "U. Politecnica de Madrid, Spain", "");
+		add_listitem("Tapan Parikh", "UC Berkeley, USA", "");
+		add_listitem("Umar Saif", "Lahore University of Management Science, Pakistan", "");
+		add_listitem("Vanessa Frias-Martinez", "University of Maryland, USA", "");
 	?>
 	
 </ul>
