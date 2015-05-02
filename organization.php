@@ -41,7 +41,7 @@
 		add_listitem("Agha Ali Raza", "Lahore University of Management Science, Pakistan", "");
 		add_listitem("Andrew Dearden", "Sheffield Hallam University, UK", "");
 		add_listitem("Azza Abouzied", "NYU Abu Dhabi, UAE", "");
-		add_listitem("Bharat Raghavan", "ICSI, India", "");
+		add_listitem("Barath Raghavan", "ICSI, USA", "");
 		add_listitem("Bhaskaran Raman", "IIT-Bombay, India", "");
 		add_listitem("Bill Tucker", "University of Western Cape, South Africa", "");
 		add_listitem("Brian DeRenzi", "IBM Kenya, Kenya", "");
@@ -51,7 +51,7 @@
 		add_listitem("Fred Xue", "Google, USA", "");
 		add_listitem("Jon Crowcroft", "University of Cambridge, UK", "");
 		add_listitem("Josh Blumenstock", "University of Washington, USA", "");
-		add_listitem("Kentaro Toyama", "UC Berkeley, USA", "");
+		add_listitem("Kentaro Toyama", "University of Michigan, USA", "");
 		add_listitem("Mahesh Marina", "University of Edinburgh, UK", "");
 		add_listitem("Mariya Zheleva", "University at Albany, SUNY", "");
 		add_listitem("Michael Best", "Georgia Tech, USA", "");
@@ -59,6 +59,7 @@
 		add_listitem("Nithya Sambasivan", "Google, USA", "");
 		add_listitem("Richard Anderson", "University of Washington, USA", "");
 		add_listitem("Roni Rosenfeld", "Carnegie Mellon University, USA", "");
+		add_listitem("Rumi Chunara", "NYU-Poly, USA", "");
 		add_listitem("Shankar Kalyanaraman", "Facebook, USA", "");
 		add_listitem("Sibren Isaacman", "Loyola University, USA", "");
 		add_listitem("Susana Munoz Hernandez", "U. Politecnica de Madrid, Spain", "");
