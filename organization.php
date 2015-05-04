@@ -16,7 +16,7 @@
 	<li data-role="list-divider">TPC Chairs</li>
 	<?php
 		add_listitem("Elizabeth Belding", "University of California, Santa Barbara, USA", "https://www.cs.ucsb.edu/~ebelding/Home.html");
-		add_listitem("Jay Chen", "New York University, USA", "");
+		add_listitem("Jay Chen", "NYU Abu Dhabi, UAE", "");
 	?>
 	
 	<li data-role="list-divider">Local Arrangements Chairs</li>
@@ -44,7 +44,7 @@
 		add_listitem("Barath Raghavan", "ICSI, USA", "");
 		add_listitem("Bhaskaran Raman", "IIT-Bombay, India", "");
 		add_listitem("Bill Tucker", "University of Western Cape, South Africa", "");
-		add_listitem("Brian DeRenzi", "IBM Kenya, Kenya", "");
+		add_listitem("Brian DeRenzi", "University of Cape Town, South Africa", "");
 		add_listitem("David Johnson", "CSIR, South Africa", "");
 		add_listitem("Ed Cutrell", "Microsoft Research India, India", "");
 		add_listitem("Ellen Zegura", "Georgia Tech, USA", "");
