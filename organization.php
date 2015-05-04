@@ -38,7 +38,7 @@
 	<li data-role="list-divider">TPC Members</li>
 	<?php
 		add_listitem("Aaditeshwar Seth", "IIT Delhi, India", "");
-		add_listitem("Agha Ali Raza", "Lahore University of Management Science, Pakistan", "");
+		add_listitem("Agha Ali Raza", "Information Technology University, Pakistan", "");
 		add_listitem("Andrew Dearden", "Sheffield Hallam University, UK", "");
 		add_listitem("Azza Abouzied", "NYU Abu Dhabi, UAE", "");
 		add_listitem("Barath Raghavan", "ICSI, USA", "");
