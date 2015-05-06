@@ -54,17 +54,17 @@
 		add_listitem("Kentaro Toyama", "University of Michigan, USA", "");
 		add_listitem("Mahesh Marina", "University of Edinburgh, UK", "");
 		add_listitem("Mariya Zheleva", "University at Albany, SUNY", "");
-		add_listitem("Michael Best", "Georgia Tech, USA", "");
+		add_listitem("Michael Best", "United Nations University Institute on Computing and Society, USA", "");
 		add_listitem("Nicola Dell", "University of Washington, USA", "");
 		add_listitem("Nithya Sambasivan", "Google, USA", "");
 		add_listitem("Richard Anderson", "University of Washington, USA", "");
 		add_listitem("Roni Rosenfeld", "Carnegie Mellon University, USA", "");
-		add_listitem("Rumi Chunara", "NYU-Poly, USA", "");
+		add_listitem("Rumi Chunara", "New York University, USA", "");
 		add_listitem("Shankar Kalyanaraman", "Facebook, USA", "");
 		add_listitem("Sibren Isaacman", "Loyola University, USA", "");
 		add_listitem("Susana Munoz Hernandez", "U. Politecnica de Madrid, Spain", "");
 		add_listitem("Tapan Parikh", "UC Berkeley, USA", "");
-		add_listitem("Umar Saif", "Lahore University of Management Science, Pakistan", "");
+		add_listitem("Umar Saif", "Information Technology University Punjab, Pakistan", "");
 		add_listitem("Vanessa Frias-Martinez", "University of Maryland, USA", "");
 	?>
 	
