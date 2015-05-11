@@ -10,6 +10,7 @@ $mypage = current_pagename();
 		<ul class="navlist" data-role="listview" data-inset="true" data-theme="d" data-divider-theme="b">
 			<li data-icon="false" <?php if ($mypage=="index.php") echo 'class="navselected"' ?> ><a href="index.php">Home</a></li>
 			<li data-icon="false" <?php if ($mypage=="cfp.php") echo 'class="navselected"' ?> ><a href="cfp.php">Call for Papers</a></li>
+			<li data-icon="false" <?php if ($mypage=="submission.php") echo 'class="navselected"' ?> ><a href="submission.php">Paper Submission</a></li>
 			<!-- <li data-icon="false" <?php if ($mypage=="program.php") echo 'class="navselected"' ?> ><a href="program.php">Program</a></li> -->
 
 			<!-- <li class="navheader-b" data-icon="plus" data-theme="c" ><a href="#">Tutorials</a></li> -->
