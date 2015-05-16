@@ -32,7 +32,7 @@
 	
 	<li data-role="list-divider">Web &amp; Publicity Chair</li>
 	<?php
-		add_listitem("Liang Wang", "University of Cambridge, UK", "http://cs.helsinki.fi/liang.wang");
+		add_listitem("Liang Wang", "University of Cambridge, UK", "http://www.cl.cam.ac.uk/~lw525/");
 	?>
 	
 	<li data-role="list-divider">TPC Members</li>
