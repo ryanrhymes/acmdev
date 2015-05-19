@@ -55,6 +55,7 @@
 		add_listitem("Mahesh Marina", "University of Edinburgh, UK", "");
 		add_listitem("Mariya Zheleva", "University at Albany, SUNY", "");
 		add_listitem("Michael Best", "United Nations University Institute on Computing and Society, USA", "");
+		add_listitem("Neha Kumar", "University of Southern California, USA", "");
 		add_listitem("Nicola Dell", "University of Washington, USA", "");
 		add_listitem("Nithya Sambasivan", "Google, USA", "");
 		add_listitem("Richard Anderson", "University of Washington, USA", "");
