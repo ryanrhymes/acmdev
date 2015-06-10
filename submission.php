@@ -14,7 +14,10 @@ Papers should describe original and previously unpublished research. Three metri
 </p>
 
 <p>
-Full papers must not exceed 9 pages and all submissions must be in ACM format, submitted as a PDF. Submissions should be fully anonymized. In particular, the names or affiliations of authors should not be included so as to allow for blind review. Papers should be submitted via the submission site. As part of the submission process, please indicate one or more tracks for which your submission is best suited.
+Full papers must not exceed 9 pages and Short papers on Practical Experiences must not exceed 2 pages.  All Submission must be in ACM format, submitted as a pdf.  The template for submission can be found <a href="http://www.acm.org/sigs/publications/proceedings-templates">here</a>. 
+</p>
+
+<p>Submissions should be fully anonymized. In particular, the names or affiliations of authors should not be included so as to allow for blind review. Papers should be submitted via the submission site. As part of the submission process, please indicate one or more tracks for which your submission is best suited.
 </p>
 
 
@@ -35,7 +38,7 @@ If your paper is accepted, we will provide further information for the camera-re
 </p>
 
 <p>
-If you have any questions about submitting papers to ACM DEV 2015, or encounter problems with the paper submission site, <a href="mailto:arjuna.sathiaseelan@cl.cam.ac.uk">contact the TPC chairs</a> well before the deadline.
+If you have any questions about submitting papers to ACM DEV 2015, or encounter problems with the paper submission site, <a href="mailto:dev15pcchairs@gmail.com">contact the TPC chairs</a> well before the deadline.
 </p>
 
 
