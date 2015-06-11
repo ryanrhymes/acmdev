@@ -14,7 +14,7 @@ Papers should describe original and previously unpublished research. Three metri
 </p>
 
 <p>
-Full papers must not exceed 9 pages and Short papers on Practical Experiences must not exceed 2 pages.  All Submission must be in ACM format, submitted as a pdf.  The template for submission can be found <a href="http://www.acm.org/sigs/publications/proceedings-templates">here</a>. 
+Full papers must not exceed 9 pages and Short papers on Practical Experiences must not exceed 2 pages.  All Submissions must be in ACM format, submitted as a pdf.  The template for submissions can be found <a href="http://www.acm.org/sigs/publications/proceedings-templates">here</a>. 
 </p>
 
 <p>Submissions should be fully anonymized. In particular, the names or affiliations of authors should not be included so as to allow for blind review. Papers should be submitted via the submission site. As part of the submission process, please indicate one or more tracks for which your submission is best suited.
