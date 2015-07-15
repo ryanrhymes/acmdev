@@ -26,7 +26,7 @@ Full papers must not exceed 9 pages and Short papers on Practical Experiences mu
 </p>
 
 <ul>
-	<li> Submit your paper by <b>July 15 11:59pm, 2015, Pacific Standard Time (PST)</b>. Be sure to finalize your paper on the paper submission site to make it available for review. </li>
+	<li> Submit your paper by <b>Sunday July 19, 11:59pm, Pacific Standard Time (PST)</b>. Be sure to finalize your paper on the paper submission site to make it available for review. </li>
 </ul>
 
 <p>
