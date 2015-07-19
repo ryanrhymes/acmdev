@@ -43,6 +43,7 @@
 		add_listitem("Azza Abouzied", "NYU Abu Dhabi, UAE", "");
 		add_listitem("Barath Raghavan", "ICSI, USA", "");
 		add_listitem("Bhaskaran Raman", "IIT-Bombay, India", "");
+		add_listitem("Bill Thies", "Microsoft Research India", "");
 		add_listitem("Bill Tucker", "University of Western Cape, South Africa", "");
 		add_listitem("Brian DeRenzi", "University of Cape Town, South Africa", "");
 		add_listitem("David Johnson", "CSIR, South Africa", "");
