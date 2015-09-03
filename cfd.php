@@ -69,7 +69,8 @@ The topic of ICT for development is inherently multidisciplinary, and encompasse
 
 
 <p>
-Poster chair: Veljko Pejovic, University of Ljubljana, Slovenia, <a mailto="Veljko.Pejovic@fri.uni-lj.si">Contact Poster Chair</a>
+Poster chair: Veljko Pejovic, University of Ljubljana, Slovenia.
+<a href="mailto:Veljko.Pejovic@fri.uni-lj.si" data-role="button" class="button">Contact the Post Chair</a>
 </p>
 
 <?php
