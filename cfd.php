@@ -55,16 +55,22 @@ The topic of ICT for development is inherently multidisciplinary, and encompasse
 <li>Understanding social networks and digital media in developing regions</li>
 </ul>
 
+<p>
+	In addition, we welcome posters outside of the above topics that address the DEV focus on computing innovations supporting social and economic development.
+</p>
 
 <h2 class="hcls">Important dates</h2>
 
 <ul data-role="listview" data-inset="true" data-theme="d" class="datetbl">
-<?php add_dateitem('<span class="linethrough">May 11, 2012</span>', 'Submission Deadline (23:59 PDT)'); ?>
-<?php add_dateitem('<span class="linethrough">May 31, 2012</span>', 'Acceptance Notification'); ?>
-<?php add_dateitem('<span class="linethrough">June 13, 2012</span>', 'Camera-Ready Deadline'); ?>
+<?php add_dateitem('September 30, 2015', 'Submission Deadline (23:59 UTC)'); ?>
+<?php add_dateitem('October 10, 2015', 'Author Notification'); ?>
+<?php add_dateitem('October 17, 2015', 'Camera-Ready Deadline'); ?>
 </ul>
 
 
+<p>
+Poster chair: Veljko Pejovic, University of Ljubljana, Slovenia, <a mailto="Veljko.Pejovic@fri.uni-lj.si">Contact Poster Chair</a>
+</p>
 
 <?php
     include ("include/footer.php");
