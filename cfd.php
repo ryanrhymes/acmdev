@@ -3,63 +3,58 @@
         include("include/header.php");
 ?>
 
-<h2 class="hcls">Call for Posters and Demos</h2>
+<h2 class="hcls">Call for Posters</h2>
 
 
 <p>
-The SIGCOMM poster/demo sessions showcase works-in-progress. The setting is informal. Topics of interest are the same as research topics in the SIGCOMM conference call for papers. 
+DEV 2015 provides an international forum for research in the design, implementation, and evaluation of information and communication technologies (ICTs) for social and economic development. In particular, we focus on contexts where conventional computing solutions are often inappropriate due to various contextual factors - including, but not limited to: cost, language, literacy, and the availability of power and bandwidth.
 </p>
 
 <p>
-Anyone can submit a poster/demo, but preference will be given to posters/demos where the primary contribution is from one or more students. The SIGCOMM 2012 Poster and Demo committee will review all posters and demo proposals. At the conference, students must present student posters. Authors of accepted papers in SIGCOMM 2012 may not submit a poster on the same work in those papers.
-</p>
-
-<a class="button" data-role="button" href="sigcomm2012-posters.pdf" rel="external">PDF Version</a>
-
-<h2 class="hcls">Student Research Competition</h2>
-
-<p>
-The SIGCOMM poster session will also serve as an ACM student research competition. Qualified entrants must have current ACM student membership, have graduate or undergraduate student status at the time of submission (May 2012), and be submitted by a single student author. Supervisors are not permitted to co-author the poster (contact the poster co-chairs if this represents a hardship).
+The poster deadline for DEV 2015 is September 30th. Posters must not exceed 2 pages and all submissions must be in ACM format, submitted as a PDF. Submissions should be fully anonymised; In particular, the names or affiliations of authors should not be included so as to allow for blind review. Posters should be submitted via the submission site. Posters should describe original and previously unpublished research, innovative experiments, and work in progress. All DEV poster submissions should either provide or directly motivate a novel technical solution that has direct implications for development. 
 </p>
 
 <p>
-Undergraduates and graduate students will be treated in separate divisions (students starting their first year of graduate school at the time of the conference will be considered as undergraduates). A small travel supplement is made available to accepted entrants; please also submit applications for travel grant support. The ACM SRC program is sponsored by Microsoft Research.  Winners will advance to ACM Grand Finals of the Student Research Competition to compete against the winners of other ACM conferences.
+The topic of ICT for development is inherently multidisciplinary, and encompasses a broad array of fields within the computer science discipline.  The ACM DEV conference is an opportunity for researchers across these diverse fields of computer science to come together to work on the common problem of improving access to and availability of information and communication technology solutions.  In an effort to encourage participation of researchers across the relevant domains, this year the conference focuses on research at the interface of computer science and development related to (but not limited to) the following non-exclusive focus areas:
 </p>
 
-<p> ACM SIGCOMM thanks the following supporters of the Student Research Competition:</p>
-<p class="center"><a href="http://research.microsoft.com/"><img src="images/microsoftresearch.png" alt="Microsoft Research" style="width: 180px;" /></a></p>
+<h3>Systems</h2>
+<ul>
+<li>Low-cost connectivity and computing devices</li>
+<li>Network solutions for poorly connected regions, including white space spectrum</li> 
+<li>Power-efficient systems</li> 
+<li>Mobile systems and applications</li> 
+<li>Special-purpose systems, e.g., sensors, wireless, IVR</li> 
+<li>Systems challenges and opportunities in development, e.g., security, sustainability, resilience</li> 
+<li>Cellular phone systems and applications</li> 
+<li>Novel tools and applications for development</li>
+<li>Measurements of existing technology in developing regions (e.g. network deployments)</li>
+</ul>
 
+<h3>HCI</h2>
+<ul>
+<li>User interfaces for low-literacy populations</li>
+<li>Multi-lingual computing</li>
+<li>User interfaces for low-cost devices</li>
+<li>Participatory methods and user-centered design</li>
+<li>Accessibility to disabled populations in developing regions</li>
+<li>Design and evaluation of applications in health, microfinance, education, agriculture, entertainment, social media</li>
+<li>Adapting content and applications to local languages and education levels</li>
+<li>Understanding social relationships and information flows in disadvantaged societies</li>
+</ul>
 
-<h2 class="hcls">Why Should You Submit a Poster?</h2>
+<h3>Data Science</h2>
+<ul>
+<li>Computational sustainability</li>
+<li>Computational social science</li>
+<li>Econometric models and developmental economics</li>
+<li>Data science for social good</li>
+<li>Machine learning techniques for large-scale data analysis in development contexts</li>
+<li>Speech interfaces and translation for low-resource languages</li>
+<li>Computer vision challenges and opportunities in development</li>
+<li>Understanding social networks and digital media in developing regions</li>
+</ul>
 
-<p>
-This is a great chance especially for students to obtain interesting and valuable feedback on ongoing research from a knowledgeable crowd at the conference. In addition, the top few submissions will be forwarded for publication to the SIGCOMM newsletter, the Computer Communication Review (CCR). Students who are submitting posters are highly encouraged to examine if they are eligible for student travel grants.
-</p>
-
-
-<h2 class="hcls">What is a Poster?</h2>
-
-<p>
-We define a poster to be A0 paper size in portrait mode (841x1189mm), to which you can affix visually appealing material that describes your research. Alternatively, you can use the space as a continuum. You should prepare the best material (appealing and succinct) that effectively communicates your research problem, techniques, results, and what is novel and important about your work. Note that you do not submit such a large-format image; only an abstract describing in text what the poster would present.
-</p>
-
-
-<h2 class="hcls">Content</h2>
-
-<p>
-The abstract should clearly state: the problem being addressed; what makes this problem interesting, important, and difficult; your approach to the problem; and the key contribution. In the final version of the abstract, you should include a URL that provides additional information about your work to the attendees. 
-</p>
-
-<p>
-Prepare your abstract using ACM conference style, modified to 10pt. Concretely, two columns, minimum 10pt times with 0.75 inch margins and 1/3 inch space between columns.  The abstract must be within the page limit and in PDF format. For submission, please use the following <a href="http://conferences.sigcomm.org/sigcomm/2012/sig-alternate-10pt.cls">LaTeX template</a> to ensure compliance. Word documents will not be accepted. At the conference, we will distribute the abstracts to all conference attendees.
-</p>
-
-
-<h2 class="hcls">What and Where to Submit</h2>
-
-<p>
-Please submit two-page abstracts for posters and demos via the <a href="http://www.dcs.gla.ac.uk/sigcomm2012/" >submission system</a> following the format guidelines listed above. Submissions are single blind, so please include the authors' names and affiliation. 
-</p>
 
 <h2 class="hcls">Important dates</h2>
 
@@ -70,31 +65,6 @@ Please submit two-page abstracts for posters and demos via the <a href="http://w
 </ul>
 
 
-<h2 class="hcls">Poster/Demo Co-Chairs</h2>
-
-<p>Colin Perkins (University of Glasgow)</p>
-<p>Kevin Almeroth (UC-Santa Barbara)</p>
-
-<h2 class="hcls">Poster/Demo Committee</h2>
-
-<p>Aditya Akella (University of Wisconsin-Madison)</p>
-<p>Fabian Bustamante (Northwestern University)</p>
-<p>Nick Feamster (University of Maryland)</p>
-<p>Timur Friedman (LIP6)</p>
-<p>Tim Griffin (Cambridge University)</p>
-<p>Tristan Henderson (University of St Andrews)</p>
-<p>Sneha Kumar Kasera (University of Utah)</p>
-<p>Dirk Kutscher (NEC Laboratories Europe)</p>
-<p>Li Erran Li (Bell Labs)</p>
-<p>Olaf Maennel (Loughborough University)</p>
-<p>Dan Massey (Colorado State University)</p>
-<p>Sue Moon (KAIST)</p>
-<p>David Oran (Cisco)</p>
-<p>Luigi Rizzo (University of Pisa)</p>
-<p>Neil Spring (University of Maryland)</p>
-<p>Lakshminarayanan Subramanian (New York University)</p>
-<p>Rod Van Meter (Keio University)</p>
-<p>J&ouml;rg Widmer (Institute IMDEA Networks)</p>
 
 <?php
     include ("include/footer.php");
