@@ -56,7 +56,7 @@ The topic of ICT for development is inherently multidisciplinary, and encompasse
 </ul>
 
 <p>
-	In addition, we welcome posters outside of the above topics that address the DEV focus on computing innovations supporting social and economic development.
+	In addition, we welcome posters outside of the above topics that address the DEV focus on computing innovations supporting social and economic development. The poster should be submitted using the <a href="http://posters.acmdev.org/">submission website</a>.
 </p>
 
 <p>
