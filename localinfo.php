@@ -33,8 +33,8 @@ There are plenty of options for accommodation near the venue.
 	<li>ibis Stratford: budget hotel, close to the Olympic park and Westfield Stratford city, <a href="http://www.ibis.com/gb/hotel-3099-ibis-london-stratford/index.shtml">[link]</a></li>
 	<li>ibis whitechapel: budget hotel, close to the university, <a href="http://www.ibis.com/gb/hotel-8033-ibis-budget-london-whitechapel/index.shtml">[link]</a></li>
 	<li>Holiday Inn Stratford: better hotel, close to the Olympic park and Westfield Stratford city, <a href="http://www.ihg.com/holidayinn/hotels/gb/en/london/lonsf/hoteldetail">[link]</a></li>
-	<li>Other options: <a href="http://www.premierinn.com/Premier+Inn+Stratford">Premier Inn</a>; <a href="http://www.booking.com/Great-St-Helen-Hotel‎">Great St Helen</a>; <a href="https://qbichotels.com/london-city/?gclid=CJrF3JvcjMgCFeoJwwodzmIAQQ">Qbic</a> </li>
-	<li>More on the <a href="http://www.booking.com/">Booking.com</a></li>
+	<li>Other options: <a href="http://www.premierinn.com/Premier+Inn+Stratford">Premier Inn</a>; <a href="http://www.booking.com/Great-St-Helen-Hotel‎">Great St Helen</a>; <a href="https://qbichotels.com/london-city/?gclid=CJrF3JvcjMgCFeoJwwodzmIAQQ">Qbic</a>. </li>
+	<li>More on the <a href="http://www.booking.com/">Booking.com</a> .</li>
 </ul>
 </p>
 
