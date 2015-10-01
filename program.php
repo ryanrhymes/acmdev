@@ -6,6 +6,7 @@
 
 <h2 class="hcls">Conference Program</h2>
 
+<!-- 
 <div id="prog_ctrl" data-role="navbar">
 	<ul>
 		<li><a href="#">Monday</a></li>
@@ -14,11 +15,12 @@
 		<li><a href="#" class="ui-btn-active ui-state-persist">All</a></li>
 	</ul>
 </div>
+-->
 
 
 	<ul id="proglist" data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-dividertheme="a">
 
-		<li class="heading" data-role="list-divider" style="display:block"><h3>Monday, November 30, 2015</h3></li>
+		<li class="heading" data-role="list-divider" style="display:block"><h3>Accepted Papers</h3></li>
 
 		<?php
 			tprog_add_item("Gender and social media use in Bangladesh",
@@ -191,8 +193,10 @@
 			"");
 		?>
 		
+<!--
 		<li class="heading" data-role="list-divider" style="display:block"><h3>Tuesday, December 1, 2015</h3></li>
 		<li class="heading" data-role="list-divider" style="display:block"><h3>Wednesday, December 2, 2015</h3></li>
+-->
 
 	</ul>
 
