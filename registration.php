@@ -57,49 +57,45 @@
 	</div>
 -->	
 	<div class="fees border ui-corner-all ui-shadow">
-<h3 class="center"><em>Late</em> Registration (after July 9)</h3>
-<table class="center">
+<h3 class="center">Conference Registration</h3>
+<table class="sponsorlevels">
     <tbody>
         <tr>
             <th></th>
-            <th>ACM Member</th>
-            <th>Student</th>
+            <th>ACM/SIGCOMM Member</th>
             <th>Non-Member</th>
-        </tr>
+            <th>Student</th>   
+            <th>Developing Region/Non-Corporate</th>     
+	</tr>
         <tr>
-            <th>Conference</th>
+            <th style="text-align:left"><em>Early</em> Registration (until November 15)</th>
             <td>
-            560&nbsp;&euro;
+            $250
             </td>
             <td>
-            390&nbsp;&euro;
+            $275
             </td>
             <td>
-            640&nbsp;&euro;
-            </td>
-        </tr>
-        <tr>
-            <th>Workshop</th>
-            <td>
-            240&nbsp;&euro;
+            $120
             </td>
             <td>
-            200&nbsp;&euro;
-            </td>
-            <td>
-            260&nbsp;&euro;
+	        $85
             </td>
         </tr>
+
         <tr>
-            <th>Tutorial</th>
+            <th style="text-align:left"><em>Late</em> Registration (after November 15)</th>
             <td>
-            310&nbsp;&euro;
+            $275
             </td>
             <td>
-            310&nbsp;&euro;
+            $300
             </td>
             <td>
-            330&nbsp;&euro;
+            $150
+            </td>
+            <td>
+            $100
             </td>
         </tr>
     </tbody>
@@ -114,11 +110,7 @@
 
 
 
-<a href="http://www.regonline.co.uk/sigcomm2012" data-role="button" class="button">Online Registration</a>
-
-<?php
-        include("include/visa.php");
-?>
+<a href="https://www.regonline.com/dev2015" data-role="button" class="button">Online Registration</a>
 
 <?php
     include ("include/footer.php");
