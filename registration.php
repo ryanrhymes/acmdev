@@ -3,7 +3,7 @@
         include("include/header.php");
 ?>
 
-<h2 class="hcls">Registration</h2>
+<h2 class="hcls">Conference Registration</h2>
 <!--
 	<div class="fees border ui-corner-all ui-shadow">
 <h3 class="center"><em>Early</em> Registration (until July 9)</h3>
@@ -58,7 +58,7 @@
 -->	
 	<div class="fees border ui-corner-all ui-shadow">
 <h3 class="center">Conference Registration</h3>
-<table class="sponsorlevels">
+<table class="center">
     <tbody>
         <tr>
             <th></th>
