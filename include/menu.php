@@ -13,6 +13,7 @@ $mypage = current_pagename();
 			<li data-icon="false" <?php if ($mypage=="cfd.php") echo 'class="navselected"' ?> ><a href="cfd.php">Call for Posters</a></li>
 			<li data-icon="false" <?php if ($mypage=="submission.php") echo 'class="navselected"' ?> ><a href="submission.php">Paper Submission</a></li>
 			<li data-icon="false" <?php if ($mypage=="program.php") echo 'class="navselected"' ?> ><a href="program.php">Program</a></li>
+			<li data-icon="false" <?php if ($mypage=="gaia.php") echo 'class="navselected"' ?> ><a href="gaia.php">GAIA Workshop</a></li>
 			<li data-icon="false" <?php if ($mypage=="registration.php") echo 'class="navselected"' ?> ><a href="https://www.regonline.com/dev2015">Registration</a></li>
 
 			<!-- <li class="navheader-b" data-icon="plus" data-theme="c" ><a href="#">Tutorials</a></li> -->
