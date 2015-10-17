@@ -21,6 +21,7 @@
 	<ul id="proglist" data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-dividertheme="a">
 
 		<li class="heading" data-role="list-divider" style="display:block"><h3>Monday, November 30, 2015</h3></li>
+		
 		<?php tprog_add_session("08:30", "Coffee Break", ""); ?>
 		
 		<?php tprog_add_session("08:45-09:00", "Chairs Welcome", "", "a"); ?>
@@ -62,7 +63,7 @@
 		<?php
 			tprog_add_item("The capability to trust strangers online: opportunities and barriers",
 			"",
-			"Richard Dent  (University of Cambridge)",
+			"Richard Dent (University of Cambridge)",
 			"",
 			"",
 			"");
@@ -119,7 +120,7 @@
 		
 		<?php tprog_add_session("15:30-16:00", "Coffee Break", ""); ?>
 		
-		<?php tprog_add_session("16:00-17:30", "Session: Socio-economics in delivering the "Global Internet Access for All" (GAIA) vision (lessons, obstacles, models) (Chair: Leandro Navarro (UPC))", "", "a"); ?>
+		<?php tprog_add_session("16:00-17:30", "Session: Socio-economics in delivering the \"Global Internet Access for All\" (GAIA) vision (lessons, obstacles, models) (Chair: Leandro Navarro (UPC))", "", "a"); ?>
 		
 		<?php tprog_add_session("18:00-", "The Great British Pub Experience (Chair: Gareth Tyson)", ""); ?>
 		
