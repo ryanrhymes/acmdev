@@ -97,7 +97,7 @@
 		<?php
 			tprog_add_item("The Challenges of Scaling WISPs",
 			"",
-			"Shaddi Hasan (UC Berkeley / Endaga), Yahel Ben-David (UC Berkeley / De Novo), Max Bittman (Sudo Mesh / De Novo), Barath Raghavan (ICSI / De Novo)",
+			"Shaddi Hasan (UC Berkeley), Yahel Ben-David (De Novo / UC Berkeley), Max Bittman (Sudo Mesh), Barath Raghavan (ICSI)",
 			"",
 			"",
 			"");
