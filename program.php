@@ -91,6 +91,15 @@
 		?>
 		
 		<?php
+			tprog_add_item("Toward Alternative Decentralized Infrastructures",
+			"",
+			"Bill Tomlinson (UC Irvine); Bonnie Nardi (UC Irvine); Donald J. Patterson (UC Irvine); Ankita Raturi (UC Irvine); Debra Richardson (UC Irvine); Jean-Daniel Saphores (UC Irvine); Dan Stokols (UC Irvine)",
+			"",
+			"",
+			"");
+		?>
+		
+		<?php
 			tprog_add_item("Internet Media Upload Caching for Poorly-Connected Regions",
 			"",
 			"Paul Schmitt (University of California, Santa Barbara), Ramya Raghavendra (IBM Research), Elizabeth Belding (University of California, Santa Barbara)",
@@ -253,6 +262,15 @@
 			?>
 
 			<?php
+			tprog_add_item("Revisiting the State of Cellular Data Connectivity in India",
+			"",
+			"Asheesh Sharma (IIT Delhi); Manveen Kaur (IIT Delhi); Zahir Koradia (IIT Delhi); Rahul Nishant (IIT Delhi); Sameer Pandit (IIT Delhi); Aravindh Raman (IIT Delhi); Aaditeshwar Seth (IIT Delhi)",
+			"",
+			"",
+			"");
+			?>
+
+			<?php
 			tprog_add_item("Analysis of end-user QoE in community networks",
 			"",
 			"Bart Braem (University of Antwerp), Johan Bergs (University of Antwerp), Chris Blondia (University of Antwerp), Sabine Wittevrongel (Ghent University), Leandro Navarro (Universitat Politecnica de Catalunya)",
@@ -270,18 +288,9 @@
 			"");
 			?>
 
-		<li class="heading" data-role="list-divider" style="display:block"><h3>Accepted Papers</h3></li>
-
-
-
-		<?php
-			tprog_add_item("Gender and social media use in Bangladesh",
-			"",
-			"Md. Mokhlesur Rahman (Jawaharlal Nehru University, New Delhi)",
-			"",
-			"",
-			"");
-		?>
+			<?php
+		    	tprog_add_session("16:30", "Closing", "", "a");
+			?>
 				
 <!--
 		<li class="heading" data-role="list-divider" style="display:block"><h3>Tuesday, December 1, 2015</h3></li>
