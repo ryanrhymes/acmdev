@@ -138,6 +138,79 @@
 		    	tprog_add_session("16:45-18:00", "Poster session", "", "a");
 		?>
 		
+		<?php
+		    	tprog_add_item("Bap re Bap! Driving Experiences through Multimodal Unruly Traffic on Bumpy Roads",
+				"",
+				"Nova Ahmed (North South University); Lamia Iftekhar (North South University); Silvia Ahmed (North South University); Ridwan Rahman (North South University); Tanveer Reza (North South University); Sarah Shoilee (North South University); Charisma F. Choudhury (University of Leeds)",
+				"",
+				"",
+				"");
+				
+				tprog_add_item("An Investigation into ICT-Addressable Causes of Maternal Mortality in Pakistan",
+				"",
+				"Amna Batool (Information Technology University (ITU)-Punjab,Pakistan); Samia Razaq (Information Technology University (ITU)-Punjab,Pakistan); Kentaro Toyama (University of Michigan (UM), Ann Arbor, US)",
+				"",
+				"",
+				"");
+				
+				tprog_add_item("RFTrack: TVWS Spectrum Measurements using Android Phones",
+				"",
+				"Marco Rainone (Solvitech); Marco Zennaro (ICTP); Ermanno Pietrosemoli (ICTP)",
+				"",
+				"",
+				"");
+				
+				tprog_add_item("Summarization Search: A New Search Abstraction for Mobile Devices",
+				"",
+				"Sunandan Chakraborty (New York University); Zohaib Jabbar (New York University Abu Dhabi); Lakshminarayanan Subramanian (New York University)",
+				"",
+				"",
+				"");
+				
+				tprog_add_item("Octopus: A Zero-Cost Architecture for Stream Network Monitoring",
+				"",
+				"Andres Arcia-Moret (University of Cambridge); Jesus Gomez (University of Los Andes); Juan Tirado (University of Cambridge); Arjuna Sathiaseelan (University of Cambridge)",
+				"",
+				"",
+				"");
+				
+				tprog_add_item("Designing for a Rural Online Learning Community",
+				"",
+				"Aditya Vishwanath (Georgia Institute of Technology); Neha Kumar (Georgia Institute of Technology)",
+				"",
+				"",
+				"");
+				
+				tprog_add_item("Text for a Ride, in Uganda",
+				"",
+				"Silvia Figueira (Santa Clara University); Michael Brew (Santa Clara University); Bryant Larsen (Santa Clara University); Pratyusha Joginipally (Santa Clara University); Sowmya Chandrashekarappa (Santa Clara University)",
+				"",
+				"",
+				"");
+				
+				tprog_add_item("Improving Flight Accuracy for Aerial Wildlife Surveys in Sub-Saharan Africa",
+				"",
+				"Howard Frederick (Independent consultant); Edward Kohi (TAWIRI); Jay Lorenzo (Vulcan Inc); Michael Coyote (Vulcan Inc); Ted Schmitt (Vulcan Inc); Kirk Larsen (Vulcan Inc)",
+				"",
+				"",
+				"");
+				
+				tprog_add_item("From sustainable Community Networks to sustainable Community Clouds",
+				"",
+				"Roger Baig (Fundació guifi.net); Felix Freitag (Universitat Politècnica de Catalunya); Leandro Navarro (Universitat Politècnica de Catalunya); Ramon Roca (Fundació guifi.net); Agustí Moll (Routek, SL); Roger Pueyo (Routek, SL)",
+				"",
+				"",
+				"");
+				
+				tprog_add_item("Enabling Compliance of Environmental Conditions",
+				"",
+				"Anirban Dasgupta (IIT Gandhinagar); Utkarsh Dwivedi (IIT Guwahati)",
+				"",
+				"",
+				"");
+			?>
+		
+		
 
 		<li class="heading" data-role="list-divider" style="display:block"><h3>Wednesday, December 2, 2015</h3></li>
 		
