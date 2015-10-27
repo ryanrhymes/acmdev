@@ -18,7 +18,7 @@
 
 	<ul id="proglist" data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-dividertheme="a">
 
-		<li class="heading" data-role="list-divider" style="display:block"><h3>Monday, December 1, 2015</h3></li>
+		<li class="heading" data-role="list-divider" style="display:block"><h3>Tuesday, December 1, 2015</h3></li>
 		
 			<?php
 		    	tprog_add_session("08:30-09:00", "Coffee and cakes", "", "a");
@@ -139,7 +139,7 @@
 		?>
 		
 
-		<li class="heading" data-role="list-divider" style="display:block"><h3>Tuesday, December 2, 2015</h3></li>
+		<li class="heading" data-role="list-divider" style="display:block"><h3>Wednesday, December 2, 2015</h3></li>
 		
 			<?php
 		    	tprog_add_session("08:30-09:00", "Coffee and cakes", "", "a");
