@@ -209,6 +209,10 @@
 				"",
 				"");
 			?>
+			
+			<?php
+		    	tprog_add_session("18:30", "Wine reception", "", "a");
+			?>
 		
 		
 
