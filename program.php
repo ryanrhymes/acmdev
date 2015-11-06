@@ -378,7 +378,7 @@
 
 
 <p>
-Please email the <a class="lnkcls" href="mailto:sigcomm2012-gen-chairs@acm.org">general chairs</a> with any questions you may have.
+Please email the <a class="lnkcls" href="mailto:arjuna.sathiaseelan@cl.cam.ac.uk">general chairs</a> with any questions you may have.
 </p>
 
 
