@@ -43,7 +43,7 @@
 			?>
 			
 			<?php
-		    	tprog_add_session("10:45-12:10", "Session 1: Connectivity and Deployment", "", "a");
+		    	tprog_add_session("10:45-12:10", "Session 1: Connectivity and Deployment", "David Johnson (CSIR)", "a");
 			?>
 			
 			<?php
@@ -87,7 +87,7 @@
 		?>
 		
 		<?php
-		    	tprog_add_session("13:10-14:55", "Session 2: Systems", "", "a");
+		    	tprog_add_session("13:10-14:55", "Session 2: Systems", "Agha Ali Raza (Information Technology University)", "a");
 		?>
 		
 		<?php
@@ -237,7 +237,7 @@
 			?>
 			
 			<?php
-		    	tprog_add_session("10:30-12:05", "Session 3: Applications and Interfaces", "", "a");
+		    	tprog_add_session("10:30-12:05", "Session 3: Applications and Interfaces", "Neha Kumar (Georgia Tech)", "a");
 			?>
 			
 			<?php
@@ -290,7 +290,7 @@
 			?>
 		
 			<?php
-		    	tprog_add_session("13:30-14:55", "Session 4: Crowds and Communities", "", "a");
+		    	tprog_add_session("13:30-14:55", "Session 4: Crowds and Communities", "Nicola Dell (Cornell Tech)", "a");
 			?>
 		
 			<?php
@@ -335,7 +335,7 @@
 
 
 			<?php
-		    	tprog_add_session("15:15-16:30", "Session 5: Network Performance", "", "a");
+		    	tprog_add_session("15:15-16:30", "Session 5: Network Performance", "Sibren Isaacman (Loyola University)", "a");
 			?>
 
 			<?php
