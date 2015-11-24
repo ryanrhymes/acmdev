@@ -279,7 +279,7 @@
 			<?php
 			tprog_add_item("Classification models for new language communities: building domain-specific message categorization",
 			"",
-			"Jessica Long (Idibon), Nick Gaylord (Idibon)",
+			"Jessica Long (Idibon), Robert Munro (Idibon), Kidus Fisaha Asfaw (UNICEF), Evan Wheeler (UNICEF), Nicholas Gaylord (Idibon)",
 			"",
 			"",
 			"");
