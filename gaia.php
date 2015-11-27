@@ -38,9 +38,9 @@
 		?>
 		
 		<?php
-			tprog_add_item("Next generation satellite broadband for developing regions",
+			tprog_add_item("Delivering Educational Benefits Through Satellite Enabled On-line Learning in Africa. Projects iKnowledge & iMlango in Kenya and Tanzania",
 			"",
-			"Trevor Barker (Avanti Consulting)",
+			"Erik Childerhouse (Avanti ApTec)",
 			"",
 			"",
 			"");
