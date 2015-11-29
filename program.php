@@ -83,7 +83,7 @@
 		?>
 
 		<?php
-		    	tprog_add_session("12:10-13:30", "Lunch", "", "a");
+		    	tprog_add_session("12:10-13:10", "Lunch", "", "a");
 		?>
 		
 		<?php
