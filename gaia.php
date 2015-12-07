@@ -110,9 +110,9 @@
 		?>
 		
 		<?php
-			tprog_add_item("Intelligent service caching for developing regions",
+			tprog_add_item("Towards Modern Web Apps in Disconnected ICNs",
 			"",
-			"Liang Wang (University of Cambridge)",
+			"Teemu Kärkkäinen (Technische Universität München)",
 			"",
 			"",
 			"");
